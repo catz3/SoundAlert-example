@@ -1,0 +1,9 @@
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\bin\x86\Debug\SoundAlert.exe.config
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\bin\x86\Debug\SoundAlert.exe
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\bin\x86\Debug\SoundAlert.pdb
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.csprojResolveAssemblyReference.cache
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.FormMain.resources
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.Properties.Resources.resources
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.csproj.GenerateResource.Cache
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.exe
+C:\Users\mattw\Desktop\SoundCatcher_Source\SoundAlert\SoundAlert\obj\x86\Debug\SoundAlert.pdb
