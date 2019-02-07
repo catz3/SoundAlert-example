@@ -2,7 +2,7 @@
 
 This is a proof-of-concept .NET solution for detecting noise at particular frequencies above an amplitude threshold.
 
-![Image1](https://github.com/catz3/SoundAlert/blob/master/SoundAlert.PNG)
+![Image1](https://github.com/catz3/SoundAlert-example/blob/master/SoundAlert.PNG)
 
 The performance of the application will depend greatly on the quality of the microphone and soundcard being used. 
 
@@ -17,7 +17,7 @@ USING THE TOOL:
 
 When noise is detected between the specified frequency ranges and above the amplitude threshold, a messagebox alert will pop up (although you could change this action, e.g. log to a file). An example is shown here:
 
-![Image2](https://github.com/catz3/SoundAlert/blob/master/SoundAlert2.PNG)
+![Image2](https://github.com/catz3/SoundAlert-example/blob/master/SoundAlert2.PNG)
 
 TROUBLESHOOTING:
 - If you don't see any results in the spectrogram, frequency domain, or time domain displays, check that your microphone is enabled, and check the levels
